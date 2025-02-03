@@ -1,2 +1,2 @@
 # ECE777AB
-Storage Media Trend Failure Analsis
+Machine Learning Essentials
